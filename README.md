@@ -5,4 +5,5 @@
 * **Interfaz Especialista:** El uso de la interfaz permite que el `Taller` pueda trabajar con cualquier entidad que sepa reparar, facilitando el mantenimiento y permitiendo añadir nuevos tipos de mecánicos sin cambiar la lógica principal.
 
 ## Ingeniería Inversa
-(Aquí pegarás el diagrama final en el Paso 5)
+UML
+![UML](DESIGN.md)
