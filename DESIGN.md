@@ -36,4 +36,7 @@ classDiagram
     Vehiculo <|-- Moto
     Vehiculo "1" *-- "0..*" Reparacion
     Taller ..> Mecanico
+
+    classDiagram
+    Reparacion "1" -- "1" Factura : genera
 ```
